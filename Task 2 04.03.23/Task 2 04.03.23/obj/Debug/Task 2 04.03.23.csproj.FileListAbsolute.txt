@@ -1,0 +1,11 @@
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\bin\Debug\Task 2 04.03.23.exe.config
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\bin\Debug\Task 2 04.03.23.exe
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\bin\Debug\Task 2 04.03.23.pdb
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task 2 04.03.23.csproj.AssemblyReference.cache
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task_2_04._03._23.Form1.resources
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task_2_04._03._23.Properties.Resources.resources
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task 2 04.03.23.csproj.GenerateResource.cache
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task 2 04.03.23.csproj.CoreCompileInputs.cache
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task 2 04.03.23.exe
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task 2 04.03.23.pdb
+C:\Users\Allli\source\repos\Task 2 04.03.23\Task 2 04.03.23\obj\Debug\Task_2_04._03._23.Form2.resources
